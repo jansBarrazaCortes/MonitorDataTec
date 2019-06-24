@@ -1,0 +1,9 @@
+C:\Users\jans.barraza\source\repos\MonitorDataTec\MonitorDataTec\bin\Debug\MonitorDataTec.exe.config
+C:\Users\jans.barraza\source\repos\MonitorDataTec\MonitorDataTec\bin\Debug\MonitorDataTec.exe
+C:\Users\jans.barraza\source\repos\MonitorDataTec\MonitorDataTec\bin\Debug\MonitorDataTec.pdb
+C:\Users\jans.barraza\source\repos\MonitorDataTec\MonitorDataTec\obj\Debug\MonitorDataTec.Form1.resources
+C:\Users\jans.barraza\source\repos\MonitorDataTec\MonitorDataTec\obj\Debug\MonitorDataTec.Properties.Resources.resources
+C:\Users\jans.barraza\source\repos\MonitorDataTec\MonitorDataTec\obj\Debug\MonitorDataTec.csproj.GenerateResource.cache
+C:\Users\jans.barraza\source\repos\MonitorDataTec\MonitorDataTec\obj\Debug\MonitorDataTec.csproj.CoreCompileInputs.cache
+C:\Users\jans.barraza\source\repos\MonitorDataTec\MonitorDataTec\obj\Debug\MonitorDataTec.exe
+C:\Users\jans.barraza\source\repos\MonitorDataTec\MonitorDataTec\obj\Debug\MonitorDataTec.pdb
